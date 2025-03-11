@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : SAI DARSHINI R S
-Roll no 212223230178
-Date of experiment : 3.3.25
+<h1>Name : SAI DARSHINI R S</h1>
+<h1>Roll no : 212223230178</h1>
+<h1>Date of experiment : 3.3.25</h1>
 
 
 
